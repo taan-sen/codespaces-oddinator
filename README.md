@@ -11,3 +11,8 @@ To run this application:
 ```
 flask --debug run
 ```
+To access the application :
+
+```
+https://stunning-train-wrvjrw94p65hgg47-5000.app.github.dev/
+```
